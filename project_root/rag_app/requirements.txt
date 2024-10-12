@@ -4,3 +4,5 @@ chromadb==0.4.6
 requests==2.31.0
 wheel==0.41.2
 setuptools==68.0.0
+fastapi==0.95.1
+uvicorn==0.22.0

@@ -1,0 +1,6 @@
+httpx==0.24.1
+beautifulsoup4==4.12.2
+chromadb==0.4.6
+requests==2.31.0
+wheel==0.41.2
+setuptools==68.0.0
